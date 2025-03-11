@@ -9,7 +9,7 @@ public class TesteEmpregado{
     e2.setTipo(2);
     e3.setTipo(3);
     //configurando alguns valores
-    e1.setSalario(5000);
+    e1.setSalario(8000);
     e2.setSalario(1700);
     e2.setComissao (0.2);//20% de comissão sobre o salário
     e3.setSalario(1500);
