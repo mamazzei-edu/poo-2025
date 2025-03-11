@@ -12,8 +12,5 @@ public class SomaDoisNumeros {
         resultado = primeiroValor + segundoValor;
         String operacao = primeiroValor + " + " + segundoValor + " = " + resultado;
         JOptionPane.showMessageDialog(null, "O resultado é: " + resultado + "\n" + operacao);
-
-
-
     }
 }
